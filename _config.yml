@@ -1,5 +1,5 @@
 # Site Settings
-baseurl: 		""
+baseurl: 		"/hashtag/"
 title: 			Hashtag for Jekyll
 
 name: 			Hashtag <i>for</i> Jekyll
