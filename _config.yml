@@ -1,21 +1,21 @@
 # Site Settings
-baseurl: 		""
-title: 			Société Algorithmique :: Algorithmic Society
+baseurl: ""
+title: "Société Algorithmique :: Algorithmic Society"
 
-name: 			  Société Algorithmique
-description: 	Chaire de recherche de l'institut MIAI
-url:          "https://github.com/gillesbastin/hashtag/"			
+name: "Société Algorithmique"
+description: Chaire de recherche de l'institut MIAI
+url: "https://github.com/gillesbastin/hashtag/"			
 
-paginate: 		3
-paginate_path: 	"blog/page:num"
+paginate: 3
+paginate_path: "blog/page:num"
 
-twitter: 		indiqo
-email: 			hello@indiqo.eu
+twitter: indiqo
+email: hello@indiqo.eu
 
-disqus: 		your_disqus_shortname
-analytics: 		UA-XXXXXXX-Y
+disqus: your_disqus_shortname
+analytics:
 
-copyright: 		Copyright 2014 Indiqo.	
+copyright: Copyright 2014 Indiqo.	
 
 # Build Settings
-permalinks: 	pretty
+permalinks: pretty
