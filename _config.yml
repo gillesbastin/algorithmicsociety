@@ -1,9 +1,9 @@
 # Site Settings
-baseurl: 		"/hashtag/"
-title: 			Hashtag for Jekyll
+baseurl: 		"/hashtag"
+title: 			Société Algorithmique :: Algorithmic Society
 
-name: 			  Hashtag <i>for</i> Jekyll
-description: 	A beautifully contemporary and elegant Jekyll theme
+name: 			  Société Algorithmique
+description: 	Chaire de recherche de l'institut MIAI
 url:          "https://github.com/gillesbastin"			
 
 paginate: 		3
