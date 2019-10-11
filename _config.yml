@@ -1,10 +1,10 @@
 # Site Settings
-baseurl: 		""
+baseurl: 		"/hashtag/"
 title: 			Hashtag for Jekyll
 
 name: 			  Hashtag <i>for</i> Jekyll
 description: 	A beautifully contemporary and elegant Jekyll theme
-url:          ""			
+url:          "https://github.com/gillesbastin"			
 
 paginate: 		3
 paginate_path: 	"blog/page:num"
