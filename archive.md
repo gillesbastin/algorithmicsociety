@@ -1,9 +1,15 @@
 ---
-title: Archive
-permalink: /archive/
-pagination:
-  enabled: true
-  per_page: 10 
+
+layout:			default
+title:  		Archive
+type:			page
+navigation: 	true
+
+date:   		2019-10-13
+excerpt: 		Don't let yourself be fooled by the <b>minimal and tidy overall appearance</b> of this theme — <i>you might be surprised what's included</i>.
+gradient: 		2
+image: 			header-2.jpg
+
 ---
 <section id="archive" class="container mt-3">
       <ul class="list-group list-group-flush px-xs-1 px-md-5 mb-3">
