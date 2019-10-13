@@ -11,6 +11,7 @@ gradient: 		2
 image: 			header-2.jpg
 
 ---
+
 <section id="archive" class="container mt-3">
       <ul class="list-group list-group-flush px-xs-1 px-md-5 mb-3">
         {% for post in paginator.posts %}
