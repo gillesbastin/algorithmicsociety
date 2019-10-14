@@ -13,10 +13,10 @@ image: 		   header-1.jpg
 ---
 
 <ul>
- {% for post %}
+ {% if post %}
   <li class="list-group-item">
    <span class="text-muted">{{ post.date | date: "%b %d, %Y " }}</span> :
    <a href="{{ post.url }}">{{ post.title }}</a>
   </li>
- {% endfor %}
+ {% endif %}
 </ul>
