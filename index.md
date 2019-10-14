@@ -21,7 +21,7 @@ gradient:   1
   
 {% endfor %}
 
-{% if post %}
+
   <div class="summary">
 
     {% if post.details and post.image %}
@@ -53,4 +53,3 @@ gradient:   1
     <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }} <a href="{{ post.url | prepend: site.baseurl }}" title="Read More" class="more">Read More</a></p>
 
   </div>
-{% endif %}
