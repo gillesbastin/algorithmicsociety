@@ -3,14 +3,14 @@
 layout:			default
 title:  		Front-matter matters, literally
 type:			post
-navigation: 	true
+navigation: 	false
 
 date:   		2014-05-05
 excerpt: 		"By now you should be already familiar with the concept of front-matter to control content and layout. Aside from basic options, <b>there are a few more</b> I'd like to introduce you to — <i>even though they're just optional</i>."
 categories:		guides
 gradient: 		4
 image: 			header-3.jpg
-details:		true
+details:		false
 
 author: 		Maximilian Bartel
 bio: 			I'm a freelance web designer who enjoys creating beautiful and standard compliant solutions for my clients from all around the world.
