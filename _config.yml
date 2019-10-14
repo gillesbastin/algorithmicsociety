@@ -1,9 +1,9 @@
 # Site Settings
 baseurl: "/hashtag"
-title: "Société Algorithmique :: Algorithmic Society"
+title: "Société Algorithmique"
 
-name: "Société Algorithmique :: Algorithmic Society"
-description: Chaire de recherche de l'institut MIAI
+name: "Société Algorithmique"
+description: Une chaire de recherche de l'institut MIAI
 url: "https://github.com/gillesbastin"			
 
 paginate: 3
