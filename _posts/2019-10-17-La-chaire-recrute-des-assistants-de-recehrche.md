@@ -1,3 +1,19 @@
+---
+
+layout:			default
+title:  		Configuration
+type:			  post
+navigation: false
+
+date:   		2019-10-17
+excerpt: 		"La chaire recrute des assistant•es de recherche."
+categories:		jobs
+gradient: 		3
+image: 			  header-1.jpg
+details:		  false
+
+---
+
 La chaire « Société algorithmique » recherche plusieurs assistant•e•s de recherche pour contribuer à ses travaux.
 
 Les stagiaires seront associé•e•s à un des projets de recherche soutenus par la chaire.
