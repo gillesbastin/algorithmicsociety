@@ -27,12 +27,10 @@ gradient:   1
 <a href="{{ post.url }}" title="Read Post" class="icon image">{{ post.content | reading_time_as_i }}</a>
 {% endif %}
 
-</div>
-
 {% if post.title %}
 <h2><a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}">{{ post.title }}</a></h2>
 {% endif %}
     
 <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }} <a href="{{ post.url | prepend: site.baseurl }}" title="Read More" class="more">Read More</a></p>
 
-  </div>
+</div>
