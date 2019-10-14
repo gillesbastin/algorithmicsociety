@@ -10,7 +10,7 @@ excerpt: 		"The concept of working with a static site generator using the termin
 categories:		guides
 gradient: 		1
 image: 			header-4.jpg
-details:		true
+details:		false
 
 author: 		Maximilian Bartel
 bio: 			I'm a freelance web designer who enjoys creating beautiful and standard compliant solutions for my clients from all around the world.
