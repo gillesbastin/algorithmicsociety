@@ -13,7 +13,7 @@ image: 		   header-1.jpg
 ---
 
 <ul>
- {% for post in paginator.posts %}
+ {% for post %}
   <li class="list-group-item">
    <span class="text-muted">{{ post.date | date: "%b %d, %Y " }}</span> :
    <a href="{{ post.url }}">{{ post.title }}</a>
