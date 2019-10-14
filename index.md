@@ -15,4 +15,25 @@ gradient:   2
 <h2>Last updates</h2>
 <p>These are the last posts documenting the activity of the chair.</p>
 
-{% include summary.html %}
+<ul class="post-list">
+    {% for post in site.posts limit:site.pagination %}
+    <li>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}
+        {{post.excerpt.length}}
+      </span>
+      <h2>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+          {{ post.title }}
+        </a>
+      </h2>
+      <p class="post-excerpt">
+        {{ post.excerpt }}
+      </p>
+        <a
+          class = "post-read-more-link"
+          href="{{ post.url | prepend: site.baseurl }}">
+          Read More
+        </a>
+    </li>
+    {% endfor %}
+  </ul>
