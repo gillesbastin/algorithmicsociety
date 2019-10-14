@@ -29,11 +29,6 @@ gradient:   2
       <p class="post-excerpt">
         {{ post.excerpt }}
       </p>
-        <a
-          class = "post-read-more-link"
-          href="{{ post.url | prepend: site.baseurl }}">
-          Read More
-        </a>
     </li>
     {% endfor %}
   </ul>
