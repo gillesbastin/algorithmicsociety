@@ -2,7 +2,7 @@
       
 <div class="excerpt">
         
-	<span class="title">{{ page.content | reading_time_as_i }}</span>
+
 
 	{% if page.title %}
 
@@ -14,7 +14,7 @@
 		
 	{% endif %}
 
-
+	<p>{{ page.excerpt | remove: '<p>' | remove: '</p>' }}</p>
 
 	{% if page.date or page.categories %}
 
