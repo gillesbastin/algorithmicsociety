@@ -2,15 +2,15 @@
 
 layout:			default
 title:  		Getting started
-type:			post
-navigation: 	false
+type:			  post
+navigation: true
 
 date:   		2014-05-09
 excerpt: 		The concept of working with a static site generator using the terminal or console <b>might be new to you</b>, but I'll do my very best to guide you through the process.
 categories:		guides
 gradient: 		1
 image: 			header-4.jpg
-details:		false
+details:		true
 
 author: 		Maximilian Bartel
 bio: 			I'm a freelance web designer who enjoys creating beautiful and standard compliant solutions for my clients from all around the world.
