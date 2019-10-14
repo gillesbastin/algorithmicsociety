@@ -1,21 +1,21 @@
 # Site Settings
 baseurl: "/hashtag"
-title: "Société Algorithmique"
+title: "Société algorithmique"
 
-name: "Société Algorithmique"
+name: "Société algorithmique"
 description: Une chaire de recherche de l'institut MIAI
 url: "https://github.com/gillesbastin"			
 
 paginate: 3
 paginate_path: "blog/page:num"
 
-twitter: indiqo
-email: hello@indiqo.eu
+twitter: gillesbastin
+email: gilles.bastin@iepg.fr
 
-disqus: your_disqus_shortname
+disqus: 
 analytics:
 
-copyright: Copyright 2014 Indiqo.	
+copyright: Chaire Société algorithmique, 2019	
 
 # Build Settings
 permalinks: pretty
