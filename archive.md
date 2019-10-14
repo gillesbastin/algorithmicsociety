@@ -12,11 +12,17 @@ image: 		   header-1.jpg
 
 ---
 
-<ul>
- {% if post %}
-  <li class="list-group-item">
-   <span class="text-muted">{{ post.date | date: "%b %d, %Y " }}</span> :
-   <a href="{{ post.url }}">{{ post.title }}</a>
-  </li>
- {% endif %}
-</ul>
+<div class="home-page">
+    <h1 class="home-page__title">{{ page.title }}</h1>
+    <ol class="home-page__post-list">
+        {% for post in site.posts offset: site.pagination + 1 %}
+        <li class="post">
+            <span class="date">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <h2 class="title">
+                <a class="link" href="{{ post.url }}">{{ post.title }}</a>
+            </h2>
+        </li>
+        {% endfor %}
+    </ol>
+</div>
+{% endraw}
