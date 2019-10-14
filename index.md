@@ -12,7 +12,7 @@ gradient:   2
 
 ---
 
-<h2>Last updates</h2>
+<h2>Actualité de la chaire</h2>
 <p>These are the last posts documenting the activity of the chair.</p>
 
 <ul class="post-list">
@@ -29,6 +29,7 @@ gradient:   2
       <p class="post-excerpt">
         {{ post.excerpt }}
       </p>
+      <br>
     </li>
     {% endfor %}
   </ul>
