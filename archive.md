@@ -12,11 +12,11 @@ image: 		header-1.jpg
 
 ---
 
-      <ul>
-        {% for post in paginator.posts %}
-        <li class="list-group-item">
-          <span class="text-muted">{{ post.date | date: "%b %d, %Y " }}</span> :
-          <a href="{{ post.url }}">{{ post.title }}</a>
-        </li>
-        {% endfor %}
-      </ul>
+<ul>
+ {% for post in paginator.posts %}
+  <li class="list-group-item">
+   <span class="text-muted">{{ post.date | date: "%b %d, %Y " }}</span> :
+   <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+ {% endfor %}
+</ul>
