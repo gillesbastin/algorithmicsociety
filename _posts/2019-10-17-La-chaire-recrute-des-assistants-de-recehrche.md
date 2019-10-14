@@ -1,12 +1,12 @@
 ---
 
 layout:			default
-title:  		Configuration
+title:  		"La chaire recrute des assistant•es de recherche"
 type:			  post
 navigation: false
 
 date:   		2019-10-17
-excerpt: 		"La chaire recrute des assistant•es de recherche."
+excerpt: 		"Vous êtes étudiant•e en master de sciences sociales ou d'informatique et vous voulez contribuer aux recherches menées dans le cadre de la chaire ? Candidatez pour devenir assistant de recherche."
 categories:		jobs
 gradient: 		3
 image: 			  header-1.jpg
