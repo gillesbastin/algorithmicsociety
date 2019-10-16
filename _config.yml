@@ -1,10 +1,10 @@
 # Site Settings
-baseurl: "/hashtag"
+baseurl: "/hashtag/"
 title: "Société algorithmique"
 
 name: "Société algorithmique"
 description: Une chaire de recherche de l'institut MIAI
-url: "https://github.com/gillesbastin"			
+url: "https://github.com/gillesbastin/hashtag/"			
 
 paginate: 3
 paginate_path: "blog/page:num"
@@ -15,7 +15,7 @@ email: gilles.bastin@iepg.fr
 disqus: 
 analytics:
 
-copyright: 🄯Chaire Société algorithmique, 2019	
+copyright: Chaire Société algorithmique, 2019	
 
 # Build Settings
 permalinks: pretty
