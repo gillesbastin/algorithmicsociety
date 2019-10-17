@@ -2,7 +2,7 @@
 
 layout:     default
 title:      Bienvenue
-type:       home
+type:       page
 navigation: true
 
 date:       2019-10-14
