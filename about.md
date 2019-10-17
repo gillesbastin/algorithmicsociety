@@ -12,7 +12,7 @@ image: 			header-1.jpg
 
 ---
 
-<div class="home-page">
+<div class="page">
 
 The Algorithmic Society Chair of MIAI will particularly focus on the impact of the algorithmic turn on social worlds previously governed by institutional and organisational rules (such as the labor market and the public sphere) or by professional knowledge (such as hospitals, courts, newsrooms or city planning offices). It will promote fieldwork research based on well-established social science methods (interviews, observation, text mining and career analysis) and experimentations to avoid the rush to theory and hasty conclusions that AI sometimes provokes. Thus the Chair will help understand the algorithmic turn as a process deeply rooted in society more than as an exogenous revolution.
 
