@@ -34,4 +34,4 @@ La durée des stages sera décidée au cas par cas, comme la quotité de travail
 Ces postes sont rémunérés sous la forme de gratifications de stage ou de vacations.
 
 ## Contact
-Pour tout renseignement, merci de contacter Gilles Bastin (<a href=mailto:gilles.bastin@iepg.fr>gilles.bastin@iepg.fr</a>) en joignant un CV à votre e-mail expliquant votre motivation à participer aux travaux de la chaire.
+Pour tout renseignement, merci de contacter Gilles Bastin (<a href=mailto:gilles.bastin@iepg.fr>gilles.bastin@iepg.fr</a>) en joignant un CV à l'e-mail expliquant votre motivation à participer aux travaux de la chaire.
