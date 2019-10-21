@@ -44,8 +44,6 @@ Pour tout renseignement, merci de contacter Gilles Bastin (<a href="mailto:gille
 ---
 
 <br>
-
-<i>
   
 ## Missions
 
@@ -68,4 +66,4 @@ These positions are paid as internship conventions or vacations contracts.
 
 ## Contact
 
-For any information, please contact Gilles Bastin (<a href="mailto:gilles.bastin@iepg.fr"> gilles.bastin@iepg.fr </a>) and attach a CV to the e-mail explaining your motivation to participate in the work of the chair.</i>
+For any information, please contact Gilles Bastin (<a href="mailto:gilles.bastin@iepg.fr">gilles.bastin@iepg.fr</a>) and attach a CV to the e-mail explaining your motivation to participate in the work of the chair.
