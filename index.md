@@ -16,12 +16,12 @@ La société connaît un tournant algorithmique sans précédent. La chaire Soci
 
 <i>Society is experiencing an unprecedented algorithmic turn. The Algorithmic Society Chair will take a triple challenge to understand this turn : an empirical challenge by studying artificial intelligence in its immediate social settings, an experimental challenge by proposing innovative cross-disciplinary research on biases in artificial intelligence and a cultural challenge by fostering a new algorithmic literacy among social science students.</i>
 
----
+<hr>
 
 <h2>Actualité de la chaire</h2>
 <p>Voir la rubrique « Archives » pour retrouver l'ensemble des actualités postées sur ce site.</p>
 
-
+<ul class="post-list">
 {% for post in site.posts limit:site.pagination %}
       <span class="post-meta">{{ post.date | date: "%d %b %Y" }}
         {{post.excerpt.length}}
@@ -36,3 +36,4 @@ La société connaît un tournant algorithmique sans précédent. La chaire Soci
       </p>
       <br>
 {% endfor %}
+</ul>
