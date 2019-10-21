@@ -15,6 +15,7 @@ gradient:   2
 La société connaît un tournant algorithmique sans précédent. La chaire Société algorithmique va relever un triple défi pour aider à comprendre ce tournant : un défi empirique consistant à étudier l'intelligence artificielle dans les contextes sociaux de son utilisation, un défi expérimental consistant à proposer une recherche transdisciplinaire innovante sur les biais de l'intelligence artificelle et un défi culturel en favorisant le développement d'une culture algorithmique parmi les étudiants en sciences sociales.
 
 <i>Society is experiencing an unprecedented algorithmic turn. The Algorithmic Society Chair will take a triple challenge to understand this turn : an empirical challenge by studying artificial intelligence in its immediate social settings, an experimental challenge by proposing innovative cross-disciplinary research on biases in artificial intelligence and a cultural challenge by fostering a new algorithmic literacy among social science students.</i>
+<br>
 
 ---
 
@@ -23,19 +24,17 @@ La société connaît un tournant algorithmique sans précédent. La chaire Soci
 
 <ul class="post-list">
     {% for post in site.posts limit:site.pagination %}
-    <li>
       <span class="post-meta">{{ post.date | date: "%d %b %Y" }}
         {{post.excerpt.length}}
       </span>
-      <h2>
+      <h3>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
           {{ post.title }}
         </a>
-      </h2>
+      </h3>
       <p class="post-excerpt">
         {{ post.excerpt }}
       </p>
       <br>
-    </li>
     {% endfor %}
   </ul>
