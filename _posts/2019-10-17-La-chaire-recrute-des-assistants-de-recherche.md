@@ -6,13 +6,15 @@ type:			  post
 navigation: true
 
 date:   		2019-10-17
-excerpt: 		"Vous êtes étudiant•e en master et vous voulez contribuer aux recherches menées dans le cadre de la chaire ? Plusieurs positions d'assistant•es de recherche sont ouvertes sous la forme de stages ou de vacations.<br><i>You are a master student and you want to contribute to the research carried out within the chair? Several positions of research assistants are opened in the form of internships or vacations.</i>"
+excerpt: 		"Vous êtes étudiant•e en master et vous voulez contribuer aux recherches menées dans le cadre de la chaire ? Plusieurs positions d'assistant•es de recherche sont ouvertes pour vous.<br><i>You are a master student and you want to contribute to the research carried out within the chair ? We have research assistants positions opened for you.</i>"
 categories:   News
 gradient: 		3
 image: 			  header-1.jpg
 details:		  true
 
 ---
+
+<i>(English below)</i>
 
 Les stagiaires seront associé•es à un des projets de recherche portés par la chaire.
 Ces projets reposent soit sur l'étude des contextes sociaux de mise en oeuvre de l'intelligence articielle (par exemple dans le monde de la justice, de la santé, du planning urbain ou des médias),
@@ -35,3 +37,29 @@ Ces postes sont rémunérés sous la forme de gratifications de stage ou de vaca
 
 ## Contact
 Pour tout renseignement, merci de contacter Gilles Bastin (<a href="mailto:gilles.bastin@iepg.fr">gilles.bastin@iepg.fr</a>) en joignant un CV à l'e-mail expliquant votre motivation à participer aux travaux de la chaire.
+
+---
+
+<i>The trainees will be associated with one of the research projects carried by the Chair.
+These projects are based either on the study of the social contexts of implementation of the articular intelligence (for example in the world of the justice, the health, the urban planning or the media),
+or on the extraction, structuring and analysis of data from the web and more particularly social networks or large databases, for the purpose of understanding the functioning of algorithmic platforms in society.
+
+## Missions
+
+The missions of the research assistants consist mainly in helping with the collection and recoding of data (data taken from the web, interviews, observations, bibliography).
+Depending on the skills of the candidates, missions in data analysis may also be entrusted
+(longitudinal analysis of data, <i> text mining </ i>, network analysis and cartographic visualization) or animation tasks of the chair itself.
+
+## Profile
+
+Master's student in social sciences, MIASHS or computer science with an interest in research and algorithmic questions (operation of web platforms, digital social networks, etc.)
+Mastery of quantitative data analysis tools (preferably R or Python) is an advantage but is not mandatory.
+
+## Duration and gratification
+
+The duration of the position as well as its time schedule will be decided on a case-by-case basis in order to allow a good integration in the chair's projects without encroaching on the training times of the students.
+These positions are paid as internship conventions or vacations contracts.
+
+## Contact
+
+For any information, please contact Gilles Bastin (<a href="mailto:gilles.bastin@iepg.fr"> gilles.bastin@iepg.fr </a>) and attach a CV to the e-mail explaining your motivation to participate in the work of the chair.</i>
