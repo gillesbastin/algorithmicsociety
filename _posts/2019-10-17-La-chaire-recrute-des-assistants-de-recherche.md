@@ -1,16 +1,16 @@
 ---
 
 layout:			default
-title:  		"La chaire Société algorithmique recrute des assistant•es de recherche<br>The Algorithmic society chair is looking for research assistants"
+title:  		"La chaire Société algorithmique recrute des assistant•es de recherche<br><i>The Algorithmic society chair is looking for research assistants</i>"
 type:			  post
-navigation: false
+navigation: true
 
 date:   		2019-10-17
-excerpt: 		"Vous êtes étudiant•e en master et vous voulez contribuer aux recherches menées dans le cadre de la chaire ? Plusieurs positions d'assistant•es de recherche sont ouvertes sous la forme de stages ou de vacations.<br>You are a master student and you want to contribute to the research carried out within the chair? Several positions of research assistants are opened in the form of internships or vacations."
+excerpt: 		"Vous êtes étudiant•e en master et vous voulez contribuer aux recherches menées dans le cadre de la chaire ? Plusieurs positions d'assistant•es de recherche sont ouvertes sous la forme de stages ou de vacations.<br><i>You are a master student and you want to contribute to the research carried out within the chair? Several positions of research assistants are opened in the form of internships or vacations.</i>"
 categories:   News
 gradient: 		3
 image: 			  header-1.jpg
-details:		  false
+details:		  true
 
 ---
 
