@@ -14,8 +14,6 @@ details:		  false
 
 ---
 
-# La chaire Société algorithmique recrute plusieurs assistant•e•s de recherche pour contribuer à ses travaux.
-
 Les stagiaires seront associé•es à un des projets de recherche portés par la chaire.
 Ces projets reposent soit sur l'étude des contextes sociaux de mise en oeuvre de l'intelligence articielle (par exemple dans le monde de la justice, de la santé, du planning urbain ou des médias),
 soit sur l’extraction, la structuration et l’analyse de données tirées du web et plus particulièrement des réseaux sociaux ou de larges bases de données, à des fins de compréhension du fonctionnement des plateformes algorithmiques dans la société.
@@ -36,4 +34,4 @@ La durée des stages sera décidée au cas par cas, comme la quotité de travail
 Ces postes sont rémunérés sous la forme de gratifications de stage ou de vacations.
 
 ## Contact
-Pour tout renseignement, merci de contacter Gilles Bastin (gilles.bastin@iepg.fr) en joignant un CV à votre e-mail expliquant votre motivation à participer aux travaux de la chaire.
+Pour tout renseignement, merci de contacter Gilles Bastin (<a href=mailto:gilles.bastin@iepg.fr>gilles.bastin@iepg.fr</a>) en joignant un CV à votre e-mail expliquant votre motivation à participer aux travaux de la chaire.
