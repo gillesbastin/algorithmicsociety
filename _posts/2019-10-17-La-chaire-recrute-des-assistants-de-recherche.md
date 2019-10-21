@@ -1,7 +1,7 @@
 ---
 
 layout:			default
-title:  		"La chaire Société algorithmique recrute des assistant•es de recherche | <i>The Algorithmic society chair is looking for research assistants</i>"
+title:  		"La chaire recrute des assistant•es de recherche | <i>The chair is looking for research assistants</i>"
 type:			  post
 navigation: false
 
