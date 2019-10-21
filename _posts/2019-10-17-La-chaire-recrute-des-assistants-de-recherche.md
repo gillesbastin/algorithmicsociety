@@ -1,12 +1,12 @@
 ---
 
 layout:			default
-title:  		"La chaire recrute des assistant•es de recherche"
+title:  		"La chaire Société algorithmic recrute des assistant•es de recherche"
 type:			  post
 navigation: false
 
 date:   		2019-10-17
-excerpt: 		"Vous êtes étudiant•e en master de sciences sociales ou d'informatique et vous voulez contribuer aux recherches menées dans le cadre de la chaire ? Candidatez pour devenir assistant de recherche."
+excerpt: 		"Vous êtes étudiant•e en master et vous voulez contribuer aux recherches menées dans le cadre de la chaire ? Plusieurs positions d'assistant•es de recherche sont ouvertes sous la forme de stages ou de vacations."
 categories:
 gradient: 		3
 image: 			  header-1.jpg
