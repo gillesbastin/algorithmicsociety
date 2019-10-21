@@ -26,11 +26,11 @@ La société connaît un tournant algorithmique sans précédent. La chaire Soci
       <span class="post-meta">{{ post.date | date: "%d %b %Y" }}
         {{post.excerpt.length}}
       </span>
-      <h3>
+      <h2>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
           {{ post.title }}
         </a>
-      </h3>
+      </h2>
       <p class="post-excerpt">
         {{ post.excerpt }}
       </p>
