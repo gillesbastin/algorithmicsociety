@@ -22,15 +22,7 @@
 
 		</div>
 
-		<footer>
 
-			{% include meta.html %}
-
-			{% include comments.html %}
-
-			{% include pagination.html %}
-
-		</footer>
 
 	</article>
 
@@ -39,8 +31,3 @@
 {% include teaser.html %}
 
 {% include footer.html %}
-<div class="copyright">
-          {% if site.copyright %}<b>{{ site.copyright }}</b> All Rights Reserved.{% endif %}
-        	{% if site.email %}<a href="mailto:{{ site.email }}" title="Send E-Mail">Contact</a>{% endif %}
-        	<a href="{{ '/feed.xml' | prepend: site.baseurl }}" title="Subscribe to Feed">RSS</a>
-</div>
