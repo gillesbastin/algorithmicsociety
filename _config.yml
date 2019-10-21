@@ -1,10 +1,10 @@
 # Site Settings
-baseurl: "/hashtag"
+baseurl: "/algorithmicsociety"
 title: "Société algorithmique"
 
 name: "Société algorithmique"
 description: Une chaire de recherche de l'institut MIAI
-url: "https://github.com/gillesbastin/hashtag"			
+url: "https://github.com/gillesbastin/algorithmicsociety"			
 
 paginate: 3
 paginate_path: "blog/page:num"
