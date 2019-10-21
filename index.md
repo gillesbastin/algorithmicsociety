@@ -3,7 +3,7 @@
 layout:     default
 title:      Bienvenue
 type:       page
-navigation: true
+navigation: false
 
 date:       2019-10-14
 image:      header-1.jpg
