@@ -18,7 +18,7 @@ image: 		header-1.jpg
         <li class="post">
             <span class="date">{{ post.date | date: "%b %-d, %Y" }}</span>
                 |
-                <a class="link" href="{{ post.url }}">{{ post.title }}</a>
+                <a class="link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
         </li>
         </ul>
         {% endfor %}
