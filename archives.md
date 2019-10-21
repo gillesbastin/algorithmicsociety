@@ -1,7 +1,7 @@
 ---
 
 layout:		default
-title:  	Archive
+title:  	Archives
 type:		page
 navigation: 	true
 
@@ -16,7 +16,7 @@ image: 		header-1.jpg
         {% for post in site.posts offset: site.pagination + 1 %}
         <ul class="home-page__post-list">
         <li class="post">
-            <span class="date">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <span class="date">{{ post.date | date: "%d %b %Y" }}</span>
                 |
                 <a class="link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
         </li>
