@@ -3,14 +3,14 @@ baseurl: "/algorithmicsociety"
 title: "Société algorithmique"
 
 name: "Société algorithmique"
-description: Une chaire de recherche de l'institut MIAI
+description: "Une chaire de recherche de l'institut MIAI"
 url: "https://github.com/gillesbastin"			
 
 paginate: 3
 paginate_path: "blog/page:num"
 
-twitter: gillesbastin
-email: gilles.bastin@iepg.fr
+twitter: "gillesbastin"
+email: "gilles.bastin@iepg.fr"
 
 disqus: 
 analytics:
