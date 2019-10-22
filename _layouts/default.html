@@ -1,11 +1,5 @@
 {% include header.html %}
 
-{% if page.gradient and page.gradient > 0 and page.gradient < 6 %}
-	{% assign gradient = page.gradient %}
-{% else %}
-	{% assign gradient = 1 %}
-{% endif %}
-
 <section class="content">
 	<article>
 		<header class="gradient-{{ gradient }}" data-animation="fadeInDownBig">
