@@ -10,7 +10,7 @@ excerpt: 		  "La chaire Société algorithmique de l'Institut MIAI commence ses 
 categories:   News
 gradient: 		3
 image: 			  header-1.jpg
-details:		  false
+details:		  true
 
 ---
 
