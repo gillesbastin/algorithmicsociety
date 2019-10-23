@@ -4,6 +4,7 @@ layout:     default
 title:      Bienvenue
 type:       page
 navigation: false
+details:    true
 
 date:       2019-10-14
 image:      header-1.jpg
