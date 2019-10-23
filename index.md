@@ -8,7 +8,7 @@ details:    true
 
 date:       2019-10-14
 image:      header-1.jpg
-excerpt:    "La chaire Société algorithmique est une des chaires de recherche de l'institut <b>MIAI</b> (Multidisciplinary Institute in Artificial Intelligence) de l'Université Grenoble Alpes. | The Algorithmic society chair is one of the research chairs of the University Grenoble Alpes MIAI ((Multidisciplinary Institute in Artificial Intelligence)"
+excerpt:    "La chaire Société algorithmique est une des chaires de recherche de l'institut <b>MIAI</b> (Multidisciplinary Institute in Artificial Intelligence) de l'Université Grenoble Alpes | The Algorithmic society chair is one of the research chairs of the University Grenoble Alpes MIAI ((Multidisciplinary Institute in Artificial Intelligence)"
 gradient:   2
 
 ---
