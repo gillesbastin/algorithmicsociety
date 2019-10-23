@@ -10,7 +10,7 @@ excerpt: 		"Vous êtes étudiant•e en master et vous voulez contribuer aux rec
 categories:   News
 gradient: 		3
 image: 			  header-1.jpg
-details:		  false
+details:		  true
 
 ---
 
