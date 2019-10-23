@@ -1,9 +1,10 @@
 ---
 
 layout:		default
-title:  	Archives
+title:  	Archive
 type:		page
 navigation: 	true
+details:        true
 
 date:   	2019-10-13
 excerpt: 	"Retrouvez sur cette page tous les articles postés sur le site."
