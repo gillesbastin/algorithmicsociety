@@ -8,14 +8,12 @@ details:    true
 
 date:       2019-10-14
 image:      header-1.jpg
-excerpt:    "La chaire Société algorithmique est une des chaires de recherche de l'institut <b>MIAI</b> (Multidisciplinary Institute in Artificial Intelligence) de l'Université Grenoble Alpes. Elle conduit des recherches sur le tournant algorithmique de la société contemporaine."
+excerpt:    "La chaire Société algorithmique est une des chaires de recherche de l'institut <b>MIAI</b> (Multidisciplinary Institute in Artificial Intelligence) de l'Université Grenoble Alpes. | The Algorithmic society chair is one of the research chairs of the University Grenoble Alpes MIAI ((Multidisciplinary Institute in Artificial Intelligence)"
 gradient:   2
 
 ---
 
-La société connaît un tournant algorithmique sans précédent. La chaire Société algorithmique va relever un triple défi pour aider à comprendre ce tournant : un défi empirique consistant à étudier l'intelligence artificielle dans les contextes sociaux de son utilisation, un défi expérimental consistant à proposer une recherche transdisciplinaire innovante sur les biais de l'intelligence artificelle et un défi culturel en favorisant le développement d'une culture algorithmique parmi les étudiants en sciences sociales.
-
-<i>Society is experiencing an unprecedented algorithmic turn. The Algorithmic Society Chair will take a triple challenge to understand this turn : an empirical challenge by studying artificial intelligence in its immediate social settings, an experimental challenge by proposing innovative cross-disciplinary research on biases in artificial intelligence and a cultural challenge by fostering a new algorithmic literacy among social science students.</i>
+La chaire Société algorithmique conduit des recherches sur le tournant algorithmique de la société contemporaine. Elle ambitionne de relever un triple défi pour aider à comprendre ce tournant : un défi empirique consistant à étudier l'intelligence artificielle dans les contextes sociaux de son utilisation, un défi expérimental consistant à proposer une recherche multidisciplinaire innovante sur les biais de l'intelligence artificelle et un défi culturel en favorisant le développement d'une culture algorithmique parmi les étudiants en sciences sociales. | <i>The Algorithmic society chair carries on research on the algorithmic turn of contemporary society. The chair ambitions to take a triple challenge to understand this turn : an empirical challenge by studying artificial intelligence in its immediate social settings, an experimental challenge by proposing innovative cross-disciplinary research on biases in artificial intelligence and a cultural challenge by fostering a new algorithmic literacy among social science students.</i>
 
 <hr>
 
