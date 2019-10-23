@@ -37,7 +37,7 @@ Ces postes sont rémunérés sous la forme de gratifications de stage ou de vaca
 
 ## Contact
 
-Pour tout renseignement, merci de contacter Gilles Bastin (<a href="mailto:gilles.bastin@iepg.fr">gilles.bastin@iepg.fr</a>) en joignant un CV à l'e-mail expliquant votre motivation à participer aux travaux de la chaire.
+Merci de contacter Gilles Bastin (<a href="mailto:gilles.bastin@iepg.fr">gilles.bastin@iepg.fr</a>) en joignant un CV à l'e-mail expliquant votre motivation à participer aux travaux de la chaire.
 
 <br>
 
@@ -66,4 +66,4 @@ These positions are paid as internship conventions or vacations contracts.
 
 ## Contact
 
-For any information, please contact Gilles Bastin (<a href="mailto:gilles.bastin@iepg.fr">gilles.bastin@iepg.fr</a>) and attach a CV to the e-mail explaining your motivation to participate in the work of the chair.
+Please contact Gilles Bastin (<a href="mailto:gilles.bastin@iepg.fr">gilles.bastin@iepg.fr</a>) and attach a CV to the e-mail explaining your motivation to participate in the work of the chair.
